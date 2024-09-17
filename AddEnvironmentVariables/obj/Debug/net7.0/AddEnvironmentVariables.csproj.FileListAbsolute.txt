@@ -1,0 +1,14 @@
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\bin\Debug\net7.0\AddEnvironmentVariables.exe
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\bin\Debug\net7.0\AddEnvironmentVariables.deps.json
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\bin\Debug\net7.0\AddEnvironmentVariables.runtimeconfig.json
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\bin\Debug\net7.0\AddEnvironmentVariables.dll
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\bin\Debug\net7.0\AddEnvironmentVariables.pdb
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\AddEnvironmentVariables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\AddEnvironmentVariables.AssemblyInfoInputs.cache
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\AddEnvironmentVariables.AssemblyInfo.cs
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\AddEnvironmentVariables.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\AddEnvironmentVariables.dll
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\refint\AddEnvironmentVariables.dll
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\AddEnvironmentVariables.pdb
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\AddEnvironmentVariables.genruntimeconfig.cache
+E:\Projects\C#\Environment Variables Adder\AddEnvironmentVariables\AddEnvironmentVariables\obj\Debug\net7.0\ref\AddEnvironmentVariables.dll
